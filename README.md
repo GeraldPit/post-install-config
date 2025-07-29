@@ -22,11 +22,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Familiarize with Admin and Agent Panels:Understand the difference between administrator and agent views
+- Set Up Roles: Define permissions for different agent roles(e.g view only, fully access) 
+- Create Departments and Teams: Structure support groups for efficient ticket routing and visibility
+- Configure User Settings: Adjust options for user registration and ticket creation
+- Add Agents and Users: Create user accounts for support staff (agents) and end-users
+- Set up SLA's (Service Level Agreements): Define response/resolution timeframes for tickets (e.g Sev A, B, C priorities)
+- Establish Help Topics: Create categories for incoming tickets to aid in organization and triage
 
 <h2>Configuration Steps</h2>
 
